@@ -75,7 +75,7 @@ public function cancel_appoint($id){
     
 
 
-
+//this is beautiful
 
 
 public function appointment(Request $request){
